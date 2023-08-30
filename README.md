@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emilyn Fernandes
+- 💻 I’m practicing my knowledge in front end
+- 📚 I’m always learning new things about technology
+- 🎵 I like to read and listen to music in my spare time.
