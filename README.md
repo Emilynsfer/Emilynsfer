@@ -1,14 +1,11 @@
 # Emilyn Fernandes
 
-Estudante de programação desde 2023. 
+Desenvolvedora Full Stack apaixonado por tecnologia, com experiência em desenvolvimento de aplicações web e soluções escaláveis. Busco uma oportunidade desafiadora onde possa aplicar minhas habilidades em front-end e back-end, trabalhar com as melhores práticas de desenvolvimento ágil e contribuir para o crescimento da empresa.
 
 ## Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/emilynsfer013) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/emilyn_fernandes/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-
-[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DIO)](https://www.dio.me/users/emilynsfer)
 
 ## Github Stats 
 
