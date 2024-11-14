@@ -2,7 +2,7 @@
 
 Desenvolvedora Full Stack apaixonado por tecnologia, com experiência em desenvolvimento de aplicações web e soluções escaláveis. Busco uma oportunidade desafiadora onde possa aplicar minhas habilidades em front-end e back-end, trabalhar com as melhores práticas de desenvolvimento ágil e contribuir para o crescimento da empresa.
 
-## Conecte-se comigo:
+## Me acompanhe também no Linkedin:
 
 Linkedin: <a href="https://www.linkedin.com/in/emilynsfer013/" target="_blank">Meu Linkedin</a>
 
@@ -18,6 +18,12 @@ Linkedin: <a href="https://www.linkedin.com/in/emilynsfer013/" target="_blank">M
 
 
 ## Principais projetos Front-end:
+
+Jogo Detona Ralph: <a href="https://github.com/Emilynsfer/Detona-Ralph">https://github.com/Emilynsfer/Detona-Ralph</a>
+
+Landing page Trilha CSS: <a href="https://github.com/Emilynsfer/landing-page-css">https://github.com/Emilynsfer/landing-page-css</a>
+
+Pokedex: <a href="https://github.com/Emilynsfer/Pokedex">https://github.com/Emilynsfer/Pokedex</a>
 
 
 
