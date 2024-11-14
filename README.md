@@ -15,3 +15,12 @@ Desenvolvedora Full Stack apaixonado por tecnologia, com experiência em desenvo
 ## Linguagens mais usadas: 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Emilynsfer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+## Principais projetos Front-end:
+
+
+
+## Principais projetos Back-end:
+
+
