@@ -23,7 +23,7 @@ Jogo Detona Ralph: <a href="https://emilynsfer.github.io/Detona-Ralph/">https://
 
 Landing page Trilha CSS: <a href="https://emilynsfer.github.io/landing-page-css/">https://emilynsfer.github.io/landing-page-css/</a>
 
-Pokedex: <a href="https://github.com/Emilynsfer/Pokedex">https://github.com/Emilynsfer/Pokedex</a>
+Pokedex: <a href="https://emilynsfer.github.io/Pokedex/">https://emilynsfer.github.io/Pokedex/</a>
 
 
 
