@@ -21,7 +21,7 @@ Linkedin: <a href="https://www.linkedin.com/in/emilynsfer013/" target="_blank">M
 
 Jogo Detona Ralph: <a href="https://github.com/Emilynsfer/Detona-Ralph">https://github.com/Emilynsfer/Detona-Ralph</a>
 
-Landing page Trilha CSS: <a href="https://github.com/Emilynsfer/landing-page-css">https://github.com/Emilynsfer/landing-page-css</a>
+Landing page Trilha CSS: <a href="https://emilynsfer.github.io/landing-page-css/">https://emilynsfer.github.io/landing-page-css/</a>
 
 Pokedex: <a href="https://github.com/Emilynsfer/Pokedex">https://github.com/Emilynsfer/Pokedex</a>
 
