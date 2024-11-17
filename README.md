@@ -19,7 +19,7 @@ Linkedin: <a href="https://www.linkedin.com/in/emilynsfer013/" target="_blank">M
 
 ## Principais projetos Front-end:
 
-Jogo Detona Ralph: <a href="https://github.com/Emilynsfer/Detona-Ralph">https://github.com/Emilynsfer/Detona-Ralph</a>
+Jogo Detona Ralph: <a href="https://emilynsfer.github.io/Detona-Ralph/">https://emilynsfer.github.io/Detona-Ralph/ </a>
 
 Landing page Trilha CSS: <a href="https://emilynsfer.github.io/landing-page-css/">https://emilynsfer.github.io/landing-page-css/</a>
 
