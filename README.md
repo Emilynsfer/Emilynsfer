@@ -41,7 +41,7 @@ Atualmente, estou construindo uma carreira sólida com **foco em oportunidades i
 
 ---
 
-### ✨ Repositórios em Destaque
+### ✨ Repositórios e artigos em Destaque
 
 - [Artigo vencedor sobre Python](https://www.dio.me/articles/como-python-transforma-big-data-3-estrategias-eficientes) 🐍    
 - [Sistema de estacionamento em C#](https://github.com/Emilynsfer/sistema-de-estacionamento) 🌐
@@ -106,7 +106,7 @@ Currently building a strong international career with the goal of **global recog
 
 ---
 
-### ✨ Featured Repositories
+### ✨ Featured Repositories and Articles
 
 - [Winning article on Python](https://www.dio.me/articles/como-python-transforma-big-data-3-estrategias-eficientes) 🐍    
 - [Parking system in C#](https://github.com/Emilynsfer/sistema-de-estacionamento) 🌐
